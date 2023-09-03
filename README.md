@@ -19,7 +19,7 @@ const harryph9 = () => {
         programmingLanguages: ["golang", "rust", "javascript", "typescript", "c/c++", "bash script", "HTML/CSS"],
         frameworkUsing: ["gonic", "fiber", "vuejs", "nuxtjs"],
         mySkills: ["web developer", "sysadmin", "devops"],
-        whatIuse: ["linux", "neovim", "git", "github", "jenkins", "docker", "postgresql", "mysql", "mariadb"],
+        whatIuse: ["linux", "neovim", "git", "github", "jenkins", "docker", "postgresql", "mysql", "mariadb", "nginx"],
     )
 }
 ```
