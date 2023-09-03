@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </div>
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B!+Welcome+to+my+github+profile+" alt="Typing SVG" /></a>
@@ -33,7 +33,7 @@ const harryph9 = () => {
 ## 📊 Github Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harryph9&show_icons=true&theme=holi&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryph9&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryph9&layout=compact&show_icons=true&theme=holi&hide_border=true" />
 </div>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=harryph9&theme=react-dark&area=true&hide_border=true)
