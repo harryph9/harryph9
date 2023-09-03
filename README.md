@@ -25,15 +25,15 @@ const harryph9 = () => {
 ```
 
 ## 📫 Contacts
-- Facebook: [harryph9](https://www.facebook.com/harryph99/)
-- Instagram: [hyylam._](https://www.instagram.com/hyylam._/)
-- Discord: [harry.__.](https://discord.com)
-- Email: [hylam399@gmail.com](mailto:hylam399@gmail.com)
+### Facebook: [harryph9](https://www.facebook.com/harryph99/)
+### Instagram: [hyylam._](https://www.instagram.com/hyylam._/)
+### Discord: [harry.__.](https://discord.com)
+### Email: [hylam399@gmail.com](mailto:hylam399@gmail.com)
 
 ## 📊 Github Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harryph9&show_icons=true&theme=holi&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryph9&layout=compact&show_icons=true&theme=holi&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryph9&layout=donut&show_icons=true&theme=holi&hide_border=true" />
 </div>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=harryph9&theme=react-dark&area=true&hide_border=true)
