@@ -25,10 +25,10 @@ const harryph9 = () => {
 ```
 
 ## 📫 Contacts
-### Facebook: [harryph9](https://www.facebook.com/harryph99/)
-### Instagram: [hyylam._](https://www.instagram.com/hyylam._/)
-### Discord: [harry.__.](https://discord.com)
-### Email: [hylam399@gmail.com](mailto:hylam399@gmail.com)
+#### Facebook: [harryph9](https://www.facebook.com/harryph99/)
+#### Instagram: [hyylam._](https://www.instagram.com/hyylam._/)
+#### Discord: [harry.__.](https://discord.com)
+#### Email: [hylam399@gmail.com](mailto:hylam399@gmail.com)
 
 ## 📊 Github Stats
 <div align="center">
